@@ -11,3 +11,11 @@
 /app/logs/*
 !app/logs/.gitkeep
 /app/phpunit.xml
+/var/
+!var/cache/.gitkeep
+!var/logs/.gitkeep
+!var/sessions/.gitkeep
+/phpunit.xml
+.idea
+reports/
+sonar-project.properties
