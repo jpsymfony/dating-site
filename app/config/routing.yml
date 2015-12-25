@@ -1,0 +1,10 @@
+front_core:
+    resource: "@FrontCoreBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+back_core:
+    resource: "@BackCoreBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
