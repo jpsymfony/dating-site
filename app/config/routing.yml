@@ -6,5 +6,5 @@ front_core:
 back_core:
     resource: "@BackCoreBundle/Controller/"
     type:     annotation
-    prefix:   /
+    prefix:   /admin
 
